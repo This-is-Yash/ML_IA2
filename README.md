@@ -118,7 +118,6 @@ View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/
 ├── diagnostics-10-00329-v2.pdf # CNN-Autoencoder Smartphone Paper
 ├── 1-s2.0-S2772662223001923-main #Transfer learning based paper
 ├── ML_Poster #Poster of the 4 research paper
-├── Additional_References/ # Supporting literature and citations for 21 research paper
 ```
 
 ---
