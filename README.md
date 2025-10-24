@@ -5,10 +5,10 @@
 ## Group Number:6 
 ---
 ## Group member
-**"Yash Pathak"**
-**"Piyush Choudhury"**
-**"Soham Mishra"**
-**"Vedant Tendulkar"**
+**Yash Pathak**
+**Piyush Choudhury**
+**Soham Mishra**
+**Vedant Tendulkar**
 ---
 ## Overview
 
