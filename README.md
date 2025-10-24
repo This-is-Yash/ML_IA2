@@ -1,6 +1,6 @@
 # ML_IA2 Poster presentation
 
-# Malaria Detection Using Machine Learning and Deep Learning Approaches
+# Microscopic Image-Based Malaria Parasite Detection Using k-Nearest Neighbor Classifier
 ---
 ## Group Number:6 
 ## Division : A
@@ -22,12 +22,12 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 
 ---
 
-## Poster Title
+## Poster Title and summary paper 
 
-**“Utilizing Image Analysis with Machine Learning and Deep Learning to Identify Malaria Parasites in Conventional Microscopic Blood Smear Images”**
+"Microscopic Image-Based Malaria Parasite Detection Using k-Nearest Neighbor Classifier"
 
-View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd)
-View the full summary sheet on overleaf: [Click here to view] (https://www.overleaf.com/read/sfpnphgbjrmn#1f12ec)
+*View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd)
+*View the full summary sheet on overleaf: [Click here to view] (https://www.overleaf.com/read/sfpnphgbjrmn#1f12ec)
 
 
 ---
