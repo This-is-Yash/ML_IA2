@@ -6,15 +6,13 @@
 ## Division : A
 ## Year : TY
 ---
----
 ## Group Members
 
-**Yash Pathak**
-**Piyush Choudhury**
-**Soham Mishra**
+**Yash Pathak**,
+**Piyush Choudhury**,
+**Soham Mishra**,
 **Vedant Tendulkar**
 
----
 ---
 ## Overview
 
