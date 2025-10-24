@@ -2,6 +2,14 @@
 
 # Malaria Detection Using Machine Learning and Deep Learning Approaches
 
+---
+##Group member and group number
+Group Number:6 
+Yash Pathak
+Piyush Choudhury
+Soham Mishra
+Vedant Tendulkar
+---
 ## Overview
 
 This repository presents a research poster summarizing and comparing four major academic studies focused on **automated malaria detection** using **machine learning (ML)** and **deep learning (DL)** techniques. The poster consolidates advancements in image analysis, convolutional neural networks (CNN), vision transformers (ViT), and hybrid diagnostic systems for malaria detection from microscopic blood smear images.
