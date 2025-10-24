@@ -27,6 +27,7 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 **“Utilizing Image Analysis with Machine Learning and Deep Learning to Identify Malaria Parasites in Conventional Microscopic Blood Smear Images”**
 
 View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd)
+View the full summary sheet on overleaf: [Click here to view] (https://www.overleaf.com/read/sfpnphgbjrmn#1f12ec)
 
 
 ---
@@ -130,6 +131,8 @@ View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/
 ├── diagnostics-10-00329-v2.pdf # CNN-Autoencoder Smartphone Paper
 ├── 1-s2.0-S2772662223001923-main #Transfer learning based paper
 ├── ML_Poster #Poster of the 4 research paper
+├── Group_6_A.bib # Bib files
+├── ML_IA2_Group_6_A #Summary sheet for the research papers
 ```
 
 ---
