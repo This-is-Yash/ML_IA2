@@ -96,7 +96,7 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 * Designed for display in research symposia and data science conferences.
 
 ---
-### 6. *Summary sheet(2025)*
+### 6. *Summary sheet (2025)*
 
 **Authors:** Based on compiled works from the above studies
 **Presented as:** A consolidated academic summary paper showcasing research papers and references used into ML and DL approaches for malaria detection.
@@ -130,7 +130,12 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 
 ---
 ##Screenshot
+* Poster
 <img width="1215" height="815" alt="image" src="https://github.com/user-attachments/assets/481ec32e-98c9-4a94-8862-30ad63789d52" />
+
+*Summary sheet
+<img width="568" height="780" alt="image" src="https://github.com/user-attachments/assets/8035a2ea-953c-47df-83eb-6ca58b87d576" />
+
 
 ---
 ## Repository Contents
