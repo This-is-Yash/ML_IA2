@@ -79,11 +79,11 @@ View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/
 
 **Key Highlights:**
 
-**Proposes a novel NASNet-Random Forest (NNR) approach for early malaria detection.**
-**Extracts spatial features from malaria cell images and generates class prediction probability features for training machine learning models.**
-**Achieves 99% accuracy with an inference time of ~0.025 seconds per sample.**
-**Validated using k-fold cross-validation and optimized through hyperparameter tuning.**
-**Demonstrates potential for rapid, accurate malaria diagnosis to assist medical professionals in reducing mortality rates.**
+*Proposes a novel NASNet-Random Forest **(NNR)** approach for early malaria detection.*
+*Extracts spatial features from malaria cell images and generates class prediction probability features for training machine learning models.*
+*Achieves **99%** accuracy with an inference time of **~0.025** seconds per sample.*
+*Validated using k-fold cross-validation and optimized through hyperparameter tuning.*
+*Demonstrates potential for rapid, accurate malaria diagnosis to assist medical professionals in reducing mortality rates.*
 ---
 ### 5. *Poster Compilation and Visualization (2025)*
 
