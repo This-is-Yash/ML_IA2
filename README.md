@@ -1,10 +1,10 @@
 # ML_IA2 Poster presentation
 
 # Malaria Detection Using Machine Learning and Deep Learning Approaches
-
 ---
-## Group member and group number
-Group Number:6 
+## Group Number:6 
+---
+## Group member
 Yash Pathak
 Piyush Choudhury
 Soham Mishra
