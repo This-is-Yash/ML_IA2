@@ -14,7 +14,8 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 
 **“Utilizing Image Analysis with Machine Learning and Deep Learning to Identify Malaria Parasites in Conventional Microscopic Blood Smear Images”**
 
-View the full poster on Overleaf: [Overleaf Project Link]([https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd])
+View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd)
+
 
 ---
 
