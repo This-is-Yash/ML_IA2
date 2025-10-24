@@ -96,6 +96,17 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 * Designed for display in research symposia and data science conferences.
 
 ---
+### 6. *Summary sheet(2025)*
+
+**Authors:** Based on compiled works from the above studies
+**Presented as:** A consolidated academic summary paper showcasing research papers and references used into ML and DL approaches for malaria detection.
+**Key Features:**
+
+* Integrates references for the paper used for summarization. 
+* Comparative research paper of CNN, ViT, and hybrid models.
+* Designed for giving references for and researchers that invented methodoliges for malaria detection.
+
+---
 
 ## Methodological Overview
 
