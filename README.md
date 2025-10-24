@@ -3,7 +3,7 @@
 # Malaria Detection Using Machine Learning and Deep Learning Approaches
 
 ---
-##Group member and group number
+## Group member and group number
 Group Number:6 
 Yash Pathak
 Piyush Choudhury
