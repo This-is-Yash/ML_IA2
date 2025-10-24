@@ -22,12 +22,12 @@ The goal of this work is to highlight state-of-the-art computational approaches 
 
 ---
 
-## Poster Title and summary paper 
+## Poster Title and Summary Paper 
 
 "Microscopic Image-Based Malaria Parasite Detection Using k-Nearest Neighbor Classifier"
 
-*View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd)
-*View the full summary sheet on overleaf: [Click here to view] (https://www.overleaf.com/read/sfpnphgbjrmn#1f12ec)
+* View the full poster on Overleaf: [Click here to view](https://www.overleaf.com/read/tvbgxsjfprpc#6a9bcd)
+* View the full summary sheet on overleaf: [Click here to view] (https://www.overleaf.com/read/sfpnphgbjrmn#1f12ec)
 
 
 ---
