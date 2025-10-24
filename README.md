@@ -3,6 +3,8 @@
 # Malaria Detection Using Machine Learning and Deep Learning Approaches
 ---
 ## Group Number:6 
+## Division : A
+## Year : TY
 ---
 ## Group member
 **Yash Pathak**
